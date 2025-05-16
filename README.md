@@ -13,7 +13,10 @@
 - 🧠 Always learning, always tinkering — building real-world projects from scratch
 - 🤝 I love sharing, collaborating, and creating things that make life easier (and cooler 😎)
   
+
 - 🔢 [**Full Stack Calculator (Java + React)**](https://github.com/Probyte5D/Calcolatrice-FullStack_Java_React) — A smart calculator with Java backend and a sleek React UI  
+  <br><img src="https://github.com/Probyte5D/Calcolatrice-FullStack_Java_React/raw/master/images/gifCalcolatrice.gif" width="400px" />
+
 - 🧮 [**Basic C Programs**](https://github.com/Probyte5D/Basic-C-programs) — Foundational C code for beginners and curious minds  
 - 🎨 [**Armocromia Website**](https://github.com/Probyte5D/Armocromia-website) — Celebrating colors and style through web design
 
