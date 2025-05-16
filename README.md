@@ -13,38 +13,9 @@
 - 🧠 Always learning, always tinkering — building real-world projects from scratch
 - 🤝 I love sharing, collaborating, and creating things that make life easier (and cooler 😎)
 - 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
-    <a href="https://github.com/Probyte5D/Calcolatrice-FullStack_Java_React" target="_blank">
-      <img src="https://github.com/Probyte5D/Calcolatrice-FullStack_Java_React/raw/master/images/gifCalcolatrice.gif" alt="Full Stack Calculator" style="width: 100%; border-radius: 8px;" />
-    </a>
-    <p><strong>Full Stack Calculator</strong></p>
-  </div>
-
-  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
-    <a href="https://github.com/Probyte5D/ResponsiveFoodWebsite" target="_blank">
-      <img src="https://github.com/Probyte5D/ResponsiveFoodWebsite/raw/master/Images/gif.gif" alt="Responsive Food Website" style="width: 100%; border-radius: 8px;" />
-    </a>
-    <p><strong>Responsive Food Website</strong></p>
-  </div>
-
-  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
-    <a href="https://github.com/Probyte5D/WeatherApp" target="_blank">
-      <img src="https://github.com/Probyte5D/WeatherApp/raw/master/images/gif.gif" alt="Weather App" style="width: 100%; border-radius: 8px;" />
-    </a>
-    <p><strong>Weather App</strong></p>
-  </div>
-
-  <div style="flex: 1 1 200px; max-width: 220px; text-align: center;">
-    <a href="https://vimeo.com/1082139013/e7f5d5412c" target="_blank">
-      <img src="https://github.com/Probyte5D/voiceAssistant/raw/master/images/voice-thumbnail.png" alt="Voice Assistant Video" style="width: 100%; border-radius: 8px;" />
-    </a>
-    <p><strong>Voice Assistant (Video)</strong></p>
-  </div>
-
-</div>
-
+| [Full Stack Calculator](https://github.com/Probyte5D/Calcolatrice-FullStack_Java_React) | [Responsive Food Website](https://github.com/Probyte5D/ResponsiveFoodWebsite) | [Weather App](https://github.com/Probyte5D/WeatherApp) | [Voice Assistant (Video)](https://vimeo.com/1082139013/e7f5d5412c) |
+| --- | --- | --- | --- |
+| <img src="https://github.com/Probyte5D/Calcolatrice-FullStack_Java_React/raw/master/images/gifCalcolatrice.gif" width="200px" /> | <img src="https://github.com/Probyte5D/ResponsiveFoodWebsite/raw/master/Images/gif.gif" width="200px" /> | <img src="https://github.com/Probyte5D/WeatherApp/raw/master/images/gif.gif" width="200px" /> | <img src="https://github.com/Probyte5D/voiceAssistant/raw/master/images/voice-thumbnail.png" width="200px" /> |
 
 
 # 💻 Tech Stack:
