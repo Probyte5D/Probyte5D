@@ -12,10 +12,12 @@
 - 🔍 Currently exploring **Spring Boot**, **RESTful APIs**, and software architecture
 - 🧠 Always learning, always tinkering — building real-world projects from scratch
 - 🤝 I love sharing, collaborating, and creating things that make life easier (and cooler 😎)
-  
-| 🔥 **Responsive Food Website** | 🌦️ **Weather App** | 🔢 **Full Stack Calculator** |
-|:------------------------------:|:------------------:|:---------------------------:|
-| [Repo](https://github.com/Probyte5D/ResponsiveFoodWebsite) <br> <img src="https://github.com/Probyte5D/ResponsiveFoodWebsite/raw/master/Images/gif.gif" width="250px" /> | [Repo](https://github.com/Probyte5D/WeatherApp) <br> <img src="https://github.com/Probyte5D/WeatherApp/raw/master/images/gif.gif" width="250px" /> | [Repo](https://github.com/Probyte5D/Calcolatrice-FullStack_Java_React) <br> <img src="https://github.com/Probyte5D/Calcolatrice-FullStack_Java_React/raw/master/images/gifCalcolatrice.gif" width="250px" /> |
+- 
+| 🔢 **[Full Stack Calculator](https://github.com/Probyte5D/Calcolatrice-FullStack_Java_React)** | 🍔 **[Responsive Food Website](https://github.com/Probyte5D/ResponsiveFoodWebsite)** | ☀️ **[Weather App](https://github.com/Probyte5D/WeatherApp)** | 🎙️ **[Voice Assistant](https://github.com/Probyte5D/voiceAssistant)** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/Probyte5D/Calcolatrice-FullStack_Java_React/raw/master/images/gifCalcolatrice.gif" width="200px" /> | <img src="https://github.com/Probyte5D/ResponsiveFoodWebsite/raw/master/Images/gif.gif" width="200px" /> | <img src="https://github.com/Probyte5D/WeatherApp/raw/master/images/gif.gif" width="200px" /> | <a href="https://vimeo.com/1082139013/e7f5d5412c" target="_blank"><img src="https://github.com/Probyte5D/voiceAssistant/raw/master/images/voice-thumbnail.png" width="200px" /></a> |
+
+
 
 
 # 💻 Tech Stack:
