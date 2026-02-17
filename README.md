@@ -1,5 +1,5 @@
- <h1 align="center">Hey there! 👋 I'm Probyte5D</h1>
-<h3 align="center">🌍 A language graduate turned tech explorer — passionate about code, creative interfaces, and clever solutions.</h3>
+ <h1 align="center">Hey there! I'm Primula ✨ </h1>
+<h3 align="center">🌍 A language graduate turned tech explorer passionate about code, creative interfaces, and clever solutions.</h3>
 <p align="center">
 ✨ I bring together the precision of programming with the curiosity of a lifelong learner.<br>
 🎓 With a background in languages and communication, I bridge the gap between humans and technology.<br>
@@ -8,9 +8,9 @@
 
 <strong>🚀 About Me</strong>
 
-- 💼 Versatile developer with a love for **Java**, **C**, and modern **web development**  
+- 💼 Versatile developer with a love for **Java**, **Python**, and modern **web development**  
 - 🎓 Language degree holder, fluent in **code** and **communication**  
-- 🔍 Currently exploring **Spring Boot**, **RESTful APIs**, and software architecture  
+- 🔍 Currently exploring **AI**, **RESTful APIs**, and software architecture  
 - 🧠 Always learning, always tinkering — building real-world projects from scratch  
 - 🤝 I love sharing, collaborating, and creating things that make life easier (and cooler 😎)  
 
