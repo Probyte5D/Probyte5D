@@ -1,24 +1,24 @@
-<h1 align="center">Hey there! ✨ I'm Primula</h1>
+ <h1 align="center">Hey there! 👋 I'm Probyte5D</h1>
 <h3 align="center">🌍 A language graduate turned tech explorer — passionate about code, creative interfaces, and clever solutions.</h3>
 <p align="center">
 ✨ I bring together the precision of programming with the curiosity of a lifelong learner.<br>
 🎓 With a background in languages and communication, I bridge the gap between humans and technology.<br>
-💡 Whether it's Java logic, a responsive website, or a smart database query I'm all in!
+💡 Whether it's Java logic, a responsive website, or a smart database query — I'm all in!
 </p>
 
 <strong>🚀 About Me</strong>
 
-- 💼 Versatile developer with a love for **Python**, **OOP**, and modern **web development**  
+- 💼 Versatile developer with a love for **Java**, **C**, and modern **web development**  
 - 🎓 Language degree holder, fluent in **code** and **communication**  
-- 🔍 Currently exploring **AI solutions**, **RESTful APIs**, and software architecture  
-- 🧠 Always learning, always tinkering  building real-world projects from scratch  
+- 🔍 Currently exploring **Spring Boot**, **RESTful APIs**, and software architecture  
+- 🧠 Always learning, always tinkering — building real-world projects from scratch  
 - 🤝 I love sharing, collaborating, and creating things that make life easier (and cooler 😎)  
 
 ---
 
-| <h3 align="center">RAG Multimodal (AI)</h3> | <h3 align="center">AWS Serverless Platform</h3> | <h3 align="center">Full Stack Calculator</h3> | <h3 align="center">Voice Assistant (Video)</h3> |
+| <h3 align="center">Full Stack Calculator</h3> | <h3 align="center">Responsive Food Website</h3> | <h3 align="center">Weather App</h3> | <h3 align="center">Voice Assistant (Video)</h3> |
 | --- | --- | --- | --- |
-| <a href="https://github.com" target="_blank"><img src="https://github.com/raw/main/images/demo.gif" width="200px" alt="RAG Multimodal AI"/></a> | <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com" width="200px" alt="AWS Serverless"/></a> | <a href="https://github.com/Calcolatrice-FullStack_Java_React" target="_blank"><img src="https://github.com/Calcolatrice-FullStack_Java_React/raw/master/images/gifCalcolatrice.gif" width="200px" alt="Full Stack Calculator"/></a> | <a href="https://vimeo.com/1082139013/e7f5d5412c" target="_blank"><img src="https://github.com/voiceAssistant/raw/master/images/voice-thumbnail.png" width="200px" alt="Voice Assistant Video"/></a> |
+| <a href="https://github.com/Probyte5D/Calcolatrice-FullStack_Java_React" target="_blank"><img src="https://github.com/Probyte5D/Calcolatrice-FullStack_Java_React/raw/master/images/gifCalcolatrice.gif" width="200px" alt="Full Stack Calculator"/></a> | <a href="https://github.com/Probyte5D/ResponsiveFoodWebsite" target="_blank"><img src="https://github.com/Probyte5D/ResponsiveFoodWebsite/raw/master/Images/gif.gif" width="200px" alt="Responsive Food Website"/></a> | <a href="https://github.com/Probyte5D/WeatherApp" target="_blank"><img src="https://github.com/Probyte5D/WeatherApp/raw/master/images/gif.gif" width="200px" alt="Weather App"/></a> | <a href="https://vimeo.com/1082139013/e7f5d5412c" target="_blank"><img src="https://github.com/Probyte5D/voiceAssistant/raw/master/images/voice-thumbnail.png" width="200px" alt="Voice Assistant Video"/></a> |
 
 ---
 
