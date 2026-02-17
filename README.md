@@ -11,7 +11,7 @@
 - 💼 Versatile developer with a love for **Java**, **Python**, and modern **web development**  
 - 🎓 Language degree holder, fluent in **code** and **communication**  
 - 🔍 Currently exploring **AI**, **RESTful APIs**, and software architecture  
-- 🧠 Always learning, always tinkering — building real-world projects from scratch  
+- 🧠 Always learning, always tinkering building real-world projects from scratch  
 - 🤝 I love sharing, collaborating, and creating things that make life easier (and cooler 😎)  
 
 | <h3 align="center">Full Stack Calculator</h3> | <h3 align="center">Responsive Food Website</h3> | <h3 align="center">Weather App</h3> | <h3 align="center">Voice Assistant (Video)</h3> |
