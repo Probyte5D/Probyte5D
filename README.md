@@ -21,6 +21,17 @@
 | <a href="https://github.com/Probyte5D/Multimodal-RAG" target="_blank"><img src="https://github.com/Probyte5D/Multimodal-RAG/raw/master/images/gif3.gif" width="200px" alt="Multimodal RAG"/></a> | <a href="https://github.com/Probyte5D/ProjectAWS-test" target="_blank"><img src="https://github.com/Probyte5D/ProjectAWS-test/raw/master/images/gif.gif" width="200px" alt="AWS Project"/></a> | <a href="https://github.com/Probyte5D/Test-Task" target="_blank"><img src="https://github.com/Probyte5D/Test-Task/raw/master/images/gif.gif" width="200px" alt="Test Task"/></a> | <a href="https://github.com/Probyte5D/OnlineShop" target="_blank"><img src="https://github.com/Probyte5D/OnlineShop/raw/master/images/gif.gif" width="200px" alt="Online Shop"/></a> |
 
 
+## 🎓 Tech Certifications
+
+| Year | Certification |
+|------|---------------|
+| 2025 | [Build RAG Applications: Get Started – IBM](https://www.coursera.org/account/accomplishments/verify/AHZT3H3LU8HC) |
+| 2025 | [Front-End Development – Meta](https://www.coursera.org/account/accomplishments/verify/6G77E7WHANPB) |
+| 2025 | [Foundations of User Experience (UX)](https://www.coursera.org/account/accomplishments/verify/KE72WT4JV6A6) |
+| 2025 | [Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/9H0DM3XU1I59) |
+| 2025 | [Google Project Management](https://www.coursera.org/account/accomplishments/specialization/K5X5Z0WFAMTW) |
+
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -56,9 +67,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Probyte5D&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Probyte5D&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Probyte5D&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Probyte5D&theme=dark&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Probyte5D&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Probyte5D&theme=dark&layout=compact)
 
 ---
 
